@@ -7,13 +7,7 @@
 Welcome to my Profile! 👋
 <br>
 
-![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Friv5547&count_bg=%23202328&title_bg=%23202328&icon=eye.svg&icon_color=%230078D4&title=Profile+views&edge_flat=true)
-
-<br>
-
-<a href="https://discord.com/users/326615161794461698">
-  <img src="https://dcbadge.limes.icu/api/status/326615161794461698?style=flat" alt="Discord Status" />
-</a>
+![](https://img.shields.io/badge/Profile_views-1,186-blue?style=flat-square)
 
 <br>
 <br>
@@ -24,3 +18,20 @@ Welcome to my Profile! 👋
 [![Stars](https://img.shields.io/badge/STARS-28-brightgreen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riv5547)
 
 ---
+
+### 🧰 Languages and Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,lua,ts,js,html,css,py,cpp,discordjs&theme=dark" />
+</p>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=riv5547&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=riv5547&theme=tokyonight&hide_border=true" width="400" />
+</p>
+
+</div>
